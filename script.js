@@ -25,6 +25,6 @@ function display() {
 }
 
 function levelUp() { 
-    level++1; 
+    level++; 
     display(); 
 }
